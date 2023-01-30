@@ -2,7 +2,6 @@ module.exports = {
   extends: [
     'plugin:@typescript-eslint/recommended',
     'plugin:prettier/recommended',
-    'next',
   ],
   plugins: ['simple-import-sort', 'sort-destructure-keys'],
   rules: {
