@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-lfca",
+  "name": "@lfca/eslint-config",
   "private": true,
   "repository": "git@github.com:lfca-earth/eslint-config.git",
   "version": "1.0.0",
